@@ -1,5 +1,5 @@
 <?php 
 
-<h1>php leson</h1>
+    echo '<h1>php leson</h1>';
 
 ?>
